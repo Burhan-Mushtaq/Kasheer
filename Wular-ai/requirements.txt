@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+
 python-dotenv
 
 groq
@@ -11,10 +12,11 @@ langchain-text-splitters
 langchain-huggingface
 
 chromadb
+
 sentence-transformers
-faiss-cpu
 
 pypdf
 python-multipart
 requests
+
 transformers
