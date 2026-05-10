@@ -3,17 +3,16 @@ uvicorn
 python-dotenv
 
 groq
+
 langchain
 langchain-community
 langchain-core
-langchain-text-splitters
 langchain-huggingface
 langchain-groq
 
 chromadb
 sentence-transformers
 
-pypdf
-python-multipart
 requests
-transformers
+python-multipart
+pypdf
